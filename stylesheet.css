@@ -15,3 +15,7 @@
     letter-spacing: 5px;
     color: hsl(288, 93%, 71%);
   }
+
+  .container p {
+    color: black;
+  }
