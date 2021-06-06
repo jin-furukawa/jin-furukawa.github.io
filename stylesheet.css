@@ -1,12 +1,11 @@
 .top-wrapper {
-    background-image: url(https://github.com/jin-furukawa/jinbei.github.io/blob/main/top.png);
     background-size: cover;
     text-align: center;
-    color: hsl(288, 93%, 71%);
     padding: 180px 0 100px 0;
   }
 
   .container {
+    background-image: url(https://github.com/jin-furukawa/jinbei.github.io/blob/main/top.png);
     width: 1170px;
     margin: 0 auto;
   }
@@ -14,3 +13,5 @@
   .container h1 {
     font-size: 45px;
     letter-spacing: 5px;
+    color: hsl(288, 93%, 71%);
+  }
